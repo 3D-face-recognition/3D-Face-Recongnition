@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1e8fd53-ddae-490a-8789-cedc876d974e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1da0eRdTFRAQLWPbjPMPLOu98sw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Study\三下\UC 人工智慧\Type2\3DFER\src\filter" />
+      <recent name="E:\Study\三下\UC 人工智慧\Type2\3DFER\src\data" />
+      <recent name="E:\Study\三下\UC 人工智慧\Type2\3DFER\src\repository" />
+      <recent name="E:\Study\三下\UC 人工智慧\Type2\3DFER\src" />
+      <recent name="E:\Study\三下\UC 人工智慧\Type2\3DFER\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for hole_finder_test.HoleFinderTest">
+    <configuration name="Unittests for hole_finder_test.HoleFinderTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="3DFER" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;hole_finder_test.HoleFinderTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for hole_finder_test.HoleFinderTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="3DFER" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;hole_finder_test.HoleFinderTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for hole_finder_test.HoleFinderTest.test_if_one_triangle_hole_then_return_3_boundary_vertices" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="3DFER" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;hole_finder_test.HoleFinderTest.test_if_one_triangle_hole_then_return_3_boundary_vertices&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test.hole_finder_test.HoleFinderTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="3DFER" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.hole_finder_test.HoleFinderTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in hole_finder_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="3DFER" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/hole_finder_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for hole_finder_test.HoleFinderTest" />
+        <item itemvalue="Python tests.Unittests for test.hole_finder_test.HoleFinderTest" />
+        <item itemvalue="Python tests.Unittests for hole_finder_test.HoleFinderTest" />
+        <item itemvalue="Python tests.Unittests in hole_finder_test.py" />
+        <item itemvalue="Python tests.Unittests for hole_finder_test.HoleFinderTest.test_if_one_triangle_hole_then_return_3_boundary_vertices" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1e8fd53-ddae-490a-8789-cedc876d974e" name="Default Changelist" comment="" />
+      <created>1592647991775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592647991775</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="594" y="166" key="#Unittests_for_hole_finder_test.HoleFinderTest.test_if_2_triangles_hole_then_return_2_holes" timestamp="1592746366561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="594" y="166" key="#Unittests_for_hole_finder_test.HoleFinderTest.test_if_2_triangles_hole_then_return_2_holes/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592746366561" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592746343449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592746343449" />
+    <state x="784" y="430" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592746363628">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="784" y="430" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592746363628" />
+    <state width="1899" height="387" key="GridCell.Tab.0.bottom" timestamp="1592797305104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="387" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592797305104" />
+    <state width="1899" height="387" key="GridCell.Tab.0.center" timestamp="1592797305103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="387" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592797305103" />
+    <state width="1899" height="387" key="GridCell.Tab.0.left" timestamp="1592797305103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="387" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592797305103" />
+    <state width="1899" height="387" key="GridCell.Tab.0.right" timestamp="1592797305104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="387" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592797305104" />
+    <state x="647" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1592650356745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="647" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592650356745" />
+  </component>
+</project>
