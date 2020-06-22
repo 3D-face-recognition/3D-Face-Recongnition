@@ -1,6 +1,5 @@
 import trimesh
 from src.filter.interface_processing_filter import IProcessingFilter
-
 class HumphreySmoothingFilter(IProcessingFilter):
     def __init__(self, unit_of_work):
         self.unit_of_work = unit_of_work

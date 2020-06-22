@@ -1,7 +1,7 @@
 import trimesh
 from src.hole_finder import HoleFinder
-from src.filter.interface_processing_filter import IProcessingFilter
 
+from src.filter.interface_processing_filter import IProcessingFilter
 class AFMFillingHoleFilter(IProcessingFilter):
     def __init__(self, unit_of_work):
         self.unit_of_work = unit_of_work

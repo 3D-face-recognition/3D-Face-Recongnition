@@ -1,7 +1,10 @@
 import unittest
 import trimesh
-from src.vertex_params_finder import VertexParamsFinder
-from src.boundary_vertex_checker import BoundaryVertexChecker
+
+from vertex_params_finder import VertexParamsFinder
+from boundary_vertex_checker import BoundaryVertexChecker
+# from src.vertex_params_finder import VertexParamsFinder
+# from src.boundary_vertex_checker import BoundaryVertexChecker
 
 class BoundaryVertexCheckerTest(unittest.TestCase):
     @classmethod

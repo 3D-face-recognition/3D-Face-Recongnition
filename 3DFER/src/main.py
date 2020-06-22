@@ -1,15 +1,16 @@
 import trimesh
+import os
 from src.data.unit_of_work import UnitOfWork
 from src.filter.z_circle_cropping_filter import ZCircleCroppingFilter
 from src.filter.taubin_smoothing_filter import TaubinSmoothingFilter
 from src.filter.afm_filling_hole_filter import AFMFillingHoleFilter
 from src.pipe_and_sink.preprocessing_pipe import PreprocessingPipe
 from src.pipe_and_sink.preprocessing_sink import PreprocessingSink
-from src.feature_selection_strategy.average_pick_up_vertices import AveragePickUpVertices
-from src.feature_selection_strategy.only_pick_nose import OnlyPickNose
-from feature_selection import FeaturesSelection 
+from src.features_selection_strategy.average_pick_up_vertices import AveragePickUpVertices
+from src.features_selection_strategy.only_pick_nose import OnlyPickNose
+from src.features_selection import FeaturesSelection
 
-base_path = "E://Study//三下//UC 人工智慧//Type2//3DFER//UoY//"
+base_path = os.getcwd()[:-4] + "//UoY//"
 
 obj_filename = base_path + '00023-13-mww38ngngy.obj'
 mesh = trimesh.load(obj_filename)
@@ -29,7 +30,7 @@ cropping_pipe.set_next(filling_hole_pipe)
 filling_hole_pipe.set_next(sink)
 unit_of_work = sink.get_unit_of_work()
 
-#strategy
+# strategy
 average_pick_up_vertices = AveragePickUpVertices(mesh)
 fs = FeaturesSelection(average_pick_up_vertices)
 fs.fit()

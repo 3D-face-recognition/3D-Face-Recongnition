@@ -1,5 +1,6 @@
-from src.data.interface_repository import IRepository
 from src.boundary_vertex_checker import BoundaryVertexChecker
+from src.data.interface_repository import IRepository
+
 
 class BoundaryVertexRepository(IRepository):
     def __init__(self, vertex_params_finder):

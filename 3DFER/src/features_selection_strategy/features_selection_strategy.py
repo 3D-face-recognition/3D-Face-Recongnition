@@ -1,5 +1,7 @@
 import abc
-class FeatureSelectionStrategy(abc.ABC):
+
+
+class FeaturesSelectionStrategy(abc.ABC):
     @abc.abstractmethod
     def select_features(self):
         pass

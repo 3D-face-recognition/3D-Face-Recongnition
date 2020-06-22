@@ -3,7 +3,7 @@ class FeaturesSelection(object):
         self.selector = selector
         
     def fit(self):
-        return self.selector.preprocess()
+        return self.selector.select_features()
 
     def change_strategy(self, strategey):
         self.selector = strategey

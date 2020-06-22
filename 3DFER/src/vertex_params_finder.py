@@ -1,5 +1,7 @@
 import networkx as nx
+
 from src.data.vertex_params import VertexParams
+
 
 class VertexParamsFinder():
     def __init__(self, mesh):

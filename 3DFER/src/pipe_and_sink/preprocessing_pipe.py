@@ -1,5 +1,4 @@
 from src.pipe_and_sink.interface_pipe_and_sink import IPipeAndSink
-
 class PreprocessingPipe(IPipeAndSink):
     def __init__(self, filter):
         self.next_pipe = None

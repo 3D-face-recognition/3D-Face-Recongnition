@@ -1,7 +1,8 @@
+import numpy as np
 from src.vertex_params_finder import VertexParamsFinder
 from src.data.vertex_repository import VertexRepository
 from src.data.boundary_vertex_repository import BoundaryVertexRepository
-import numpy as np
+
 
 class UnitOfWork():
     def __init__(self, mesh):

@@ -2,7 +2,6 @@ import numpy as np
 import trimesh
 import math
 from src.filter.interface_processing_filter import IProcessingFilter
-
 class ZCircleCroppingFilter(IProcessingFilter):
     def __init__(self, unit_of_work, r):
         self.unit_of_work = unit_of_work

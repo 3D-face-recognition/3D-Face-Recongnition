@@ -1,6 +1,7 @@
 from src.data.interface_repository import IRepository
 from src.data.vertex import Vertex
 
+
 class VertexRepository(IRepository):
     def __init__(self, vertex_params_finder):
         self.vertices = self.__parsing_mesh(vertex_params_finder)
