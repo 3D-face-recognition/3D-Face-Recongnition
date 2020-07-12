@@ -1,6 +1,6 @@
 import trimesh
 
-from filter.interface_processing_filter import IProcessingFilter
+from src.filter.interface_processing_filter import IProcessingFilter
 # from src.filter.interface_processing_filter import IProcessingFilter
 class TaubinSmoothingFilter(IProcessingFilter):
     def __init__(self, unit_of_work):
